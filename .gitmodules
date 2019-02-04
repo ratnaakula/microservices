@@ -1,3 +1,6 @@
 [submodule "Downloads/currency-conversion-service/currency"]
 	path = Downloads/currency-conversion-service/currency
 	url = https://github.com/ratnaakula/currency.git
+[submodule "Downloads/currency-exchange-service/currency"]
+	path = Downloads/currency-exchange-service/currency
+	url = https://github.com/ratnaakula/currency.git
